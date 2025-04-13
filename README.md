@@ -1,4 +1,4 @@
-# NeuralNetworkLAndH
+# Neural Network for identifying L and H characters
 
 Academic Group Project
 
